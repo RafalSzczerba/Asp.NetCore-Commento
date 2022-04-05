@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafal\\Desktop\\SSO\\Commento\\Commento\\Commento.csproj",
+      "projectUniqueName": "C:\\Users\\Rafal\\Desktop\\Commento2\\Asp.NetCore-Commento\\Commento.csproj",
       "projectName": "Commento",
-      "projectPath": "C:\\Users\\Rafal\\Desktop\\SSO\\Commento\\Commento\\Commento.csproj",
+      "projectPath": "C:\\Users\\Rafal\\Desktop\\Commento2\\Asp.NetCore-Commento\\Commento.csproj",
       "packagesPath": "C:\\Users\\Rafal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafal\\Desktop\\SSO\\Commento\\Commento\\obj\\",
+      "outputPath": "C:\\Users\\Rafal\\Desktop\\Commento2\\Asp.NetCore-Commento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafal\\AppData\\Roaming\\NuGet\\NuGet.Config",
