@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xrB3G6zbnq6TfOJtOfTiGB1Y/7JLkGZRJhnvhdJkcECuyef/dWbwJR0vQOyXiJgaC2KGXp027eiTaj841JlIIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafal\\Desktop\\SSO\\Commento\\Commento\\Commento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
